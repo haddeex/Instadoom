@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InstaFocus</string>
+    <string name="accessibility_service_desc">InstaFocus tracks Instagram scrolls to count Reels and calculate daily scrolling time to stop doom scrolling.</string>
+    <string name="notif_channel_name">InstaFocus Reminders</string>
+    <string name="notif_channel_desc">Daily reel count alerts and motivational warnings.</string>
+</resources>

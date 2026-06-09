@@ -1,0 +1,6 @@
+{
+  "name": "InstaFocus",
+  "description": "Stop Instagram doom scrolling. Track usage time, count watched reels in real-time, get behavioral nudge notifications, unlock badges, and stay focused.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
